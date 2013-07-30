@@ -23,35 +23,36 @@
 
 Note: on Windows, [Cleartype](http://en.wikipedia.org/wiki/ClearType "ClearType - Wikipedia, the free encyclopedia") is on. Rendering may vary depending on the display settings of the user.
 
+
 ## Fonts
 
 ### Headline Light
-http://www.kaelig.fr/gu/fonts/hint-off/EgyptianHeadline-Light/Guardian%20Egyp%20Web-Light.html
-http://www.kaelig.fr/gu/fonts/hint-on/EgyptianHeadline-Light/Guardian%20Egyp%20Web-Light.html
+- [Hinting OFF](http://www.kaelig.fr/gu/fonts/hint-off/EgyptianHeadline-Light/Guardian%20Egyp%20Web-Light.html)
+- [Hinting ON](http://www.kaelig.fr/gu/fonts/hint-on/EgyptianHeadline-Light/Guardian%20Egyp%20Web-Light.html)
 
 ### Headline Medium
-http://www.kaelig.fr/gu/fonts/hint-off/EgyptianHeadline-Medium/Guardian%20Egyp%20Web-Medium.html
-http://www.kaelig.fr/gu/fonts/hint-on/EgyptianHeadline-Medium/Guardian%20Egyp%20Web-Medium.html
+- [Hinting OFF](http://www.kaelig.fr/gu/fonts/hint-off/EgyptianHeadline-Medium/Guardian%20Egyp%20Web-Medium.html)
+- [Hinting ON](http://www.kaelig.fr/gu/fonts/hint-on/EgyptianHeadline-Medium/Guardian%20Egyp%20Web-Medium.html)
 
 ### Headline Semibold
-http://www.kaelig.fr/gu/fonts/hint-off/EgyptianHeadline-Semibold/Guardian%20Egyp%20Web-Semibold.html
-http://www.kaelig.fr/gu/fonts/hint-on/EgyptianHeadline-Semibold/Guardian%20Egyp%20Web-Semibold.html
+- [Hinting OFF](http://www.kaelig.fr/gu/fonts/hint-off/EgyptianHeadline-Semibold/Guardian%20Egyp%20Web-Semibold.html)
+- [Hinting ON](http://www.kaelig.fr/gu/fonts/hint-on/EgyptianHeadline-Semibold/Guardian%20Egyp%20Web-Semibold.html)
 
 ### Headline Bold
-http://www.kaelig.fr/gu/fonts/hint-off/EgyptianHeadline-Bold/Guardian%20Egyp%20Web-Bold.html
-http://www.kaelig.fr/gu/fonts/hint-on/EgyptianHeadline-Bold/Guardian%20Egyp%20Web-Bold.html
+- [Hinting OFF](http://www.kaelig.fr/gu/fonts/hint-off/EgyptianHeadline-Bold/Guardian%20Egyp%20Web-Bold.html)
+- [Hinting ON](http://www.kaelig.fr/gu/fonts/hint-on/EgyptianHeadline-Bold/Guardian%20Egyp%20Web-Bold.html)
 
 ### Text Regular
-http://www.kaelig.fr/gu/fonts/hint-off/EgyptianText-Regular/Guardian%20Text%20Egyp%20Web-Reg.html
-http://www.kaelig.fr/gu/fonts/hint-on/EgyptianText-Regular/Guardian%20Text%20Egyp%20Web-Reg.html
+- [Hinting OFF](http://www.kaelig.fr/gu/fonts/hint-off/EgyptianText-Regular/Guardian%20Text%20Egyp%20Web-Reg.html)
+- [Hinting ON](http://www.kaelig.fr/gu/fonts/hint-on/EgyptianText-Regular/Guardian%20Text%20Egyp%20Web-Reg.html)
 
 ### Text Regular Italic
-http://www.kaelig.fr/gu/fonts/hint-off/EgyptianText-RegularItalic/Guardian%20Text%20Egyp%20Web-Reg%20It.html
-http://www.kaelig.fr/gu/fonts/hint-on/EgyptianText-RegularItalic/Guardian%20Text%20Egyp%20Web-Reg%20It.html
+- [Hinting OFF](http://www.kaelig.fr/gu/fonts/hint-off/EgyptianText-RegularItalic/Guardian%20Text%20Egyp%20Web-Reg%20It.html)
+- [Hinting ON](http://www.kaelig.fr/gu/fonts/hint-on/EgyptianText-RegularItalic/Guardian%20Text%20Egyp%20Web-Reg%20It.html)
 
 ### Text Medium
-http://www.kaelig.fr/gu/fonts/hint-off/EgyptianText-Medium/Guardian%20Text%20Egyp%20Web-Med.html
-http://www.kaelig.fr/gu/fonts/hint-on/EgyptianText-Medium/Guardian%20Text%20Egyp%20Web-Med.html
+- [Hinting OFF](http://www.kaelig.fr/gu/fonts/hint-off/EgyptianText-Medium/Guardian%20Text%20Egyp%20Web-Med.html)
+- [Hinting ON](http://www.kaelig.fr/gu/fonts/hint-on/EgyptianText-Medium/Guardian%20Text%20Egyp%20Web-Med.html)
 
 
 ## Analysis
