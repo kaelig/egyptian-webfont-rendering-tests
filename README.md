@@ -87,6 +87,7 @@ On other platforms, we should use hinted fonts (bigger file size but no renderin
     - Generate different font formats: EOT, SVG
     - Make sure SVG and EOT are served gzipped
     - Serve fonts using the bulletproof fontspring CSS snippet
+
 ```css
     @font-face {
         font-family: 'MyFontFamily';
@@ -96,4 +97,5 @@ On other platforms, we should use hinted fonts (bigger file size but no renderin
              url('myfont-webfont.svg#svgFontName') format('svg');
         }
 ```
+
 - Monitor impact on load performance for first loads and repeat views
