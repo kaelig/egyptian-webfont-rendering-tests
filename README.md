@@ -79,13 +79,14 @@ Georgia and Egyptian have very different x-heights. It means that the georgia fa
 We should keep using non-hinted fonts on iOS and Android (smaller file size and good rendering)
 On other platforms, we should use hinted fonts (bigger file size but no rendering issues)
 
-Actions:
+#### Actions:
 - Serve .eot webfonts to IE8?
 - Serve non-hinted webfonts only to iOS 5+ and Android 2.3+?
 - Serve fonts the normal way to all other platforms (instead of using LocalStorage)
     - Generate different font formats: EOT, SVG
     - Make sure SVG and EOT are served gzipped
     - Serve fonts using the bulletproof fontspring CSS snippet
+    ```css
         @font-face {
             font-family: 'MyFontFamily';
             src: url('myfont-webfont.eot?#iefix') format('embedded-opentype'),
@@ -93,4 +94,5 @@ Actions:
                  url('myfont-webfont.ttf')  format('truetype'),
                  url('myfont-webfont.svg#svgFontName') format('svg');
             }
+    ```
 - Monitor impact on load performance for first loads and repeat views
