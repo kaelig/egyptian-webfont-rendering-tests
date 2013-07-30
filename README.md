@@ -63,6 +63,8 @@ Note: on Windows, [Cleartype](http://en.wikipedia.org/wiki/ClearType "ClearType 
 
 **On Desktop**, hinting makes a big difference for browsers with an important market share, like Chrome.
 
+Rendering is quite bad on XP, especially since cleartype is often turned off by default.
+
 IE8 font rendering engine is quite good (not part of this test) at rendering Egyptian (text and headlines).
 
 Agate Sans Hinted (not part of the test) rendered well everywhere at all sizes in other tests.
@@ -100,3 +102,4 @@ On other platforms, we should use hinted fonts (bigger file size but no renderin
 ```
 
 - Monitor impact on load performance for first loads and repeat views
+- Filter out XP users (Windows NT 5.1) from getting any webfonts?
